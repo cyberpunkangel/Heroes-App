@@ -80,12 +80,12 @@ export const heroes = [
         'characters':'Dinah Drake, Dinah Lance'
     },
     {
-        'id': 'marvel-spider',
-        'superhero':'Spider Man', 
+        'id': 'marvel-thor',
+        'superhero':'Thor', 
         'publisher':'Marvel Comics', 
-        'alter_ego':'Peter Parker',
-        'first_appearance':'Amazing Fantasy #15',
-        'characters':'Peter Parker'
+        'alter_ego':'Thor Odinson',
+        'first_appearance':'Journey into Myster #83',
+        'characters':'Thor Odinson'
     },
     {
         'id': 'marvel-captain',
@@ -104,12 +104,12 @@ export const heroes = [
         'characters':'Tony Stark'
     },
     {
-        'id': 'marvel-thor',
-        'superhero':'Thor', 
+        'id': 'marvel-spider',
+        'superhero':'Spider Man', 
         'publisher':'Marvel Comics', 
-        'alter_ego':'Thor Odinson',
-        'first_appearance':'Journey into Myster #83',
-        'characters':'Thor Odinson'
+        'alter_ego':'Peter Parker',
+        'first_appearance':'Amazing Fantasy #15',
+        'characters':'Peter Parker'
     },
     {
         'id': 'marvel-hulk',
