@@ -14,7 +14,7 @@ export const HeroPage = () => {
     navigate(-1);
   }
 
-  const heroImageUrl = `./../assets/heroes/${id}.jpg`; // en modo desarrollo
+  const heroImageUrl = `/heroes/${ id }.jpg`  // en modo desarrollo
   // const heroImageUrl = `./heroes/${ id }.jpg`; // usando github pages
 
   if ( !hero ) {
